@@ -3,5 +3,5 @@
 .RData
 .Ruserdata
 renv/
-./github_submission.Rproj
+github_submission.Rproj
 docs/DEGs/
