@@ -2,7 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+.gitignore
 renv/
 github_submission.Rproj
 docs/DEGs
 docs/dependencies.pptx
+docs/dependencies.jpg
