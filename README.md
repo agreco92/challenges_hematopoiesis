@@ -1,3 +1,5 @@
+Code to reproduce scRNA-seq analysis in Fanti et al., 2022
+
 The analysis performed is structured as follows (arrows indicate dependencies)
 
 ![](docs/dependencies.jpg)
