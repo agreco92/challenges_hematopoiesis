@@ -6,7 +6,7 @@
 renv/
 github_submission.Rproj
 ./docs/DEGs
-./docs/dependencies.pptx
+docs/dependencies.pptx
 ./docs/dependencies.jpg
 ./docs/.DS_Store
 README.html
