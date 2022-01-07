@@ -2,7 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-.gitignore
 .DS_Store
 renv/
 github_submission.Rproj
@@ -10,3 +9,4 @@ github_submission.Rproj
 ./docs/dependencies.pptx
 ./docs/dependencies.jpg
 ./docs/.DS_Store
+README.html
